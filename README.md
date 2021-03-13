@@ -14,7 +14,7 @@
 3.	GPS Module
 4.	Αισθητήρας κλίσης
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/kithendor/Project404s/blob/main/Images/Rover_Preview.png)
 Η εικόνα είναι ενδεικτική και δεν αποτελεί την τελική σχεδίαση.
 
 ## Βασικά χαρακτηριστικά τεχνητής νοημοσύνης
